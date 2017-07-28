@@ -1678,7 +1678,7 @@ pre .javascript .function {
   width: 4px;
   height: 4px;
   border-radius: 50%;
-  background: #ecba98;
+  background: #18c130;
 }
 .links-of-blogroll {
   font-size: 13px;
@@ -2846,6 +2846,7 @@ body {
   background-repeat: repeat-x;
   background-attachment: fixed;
   background-position: 40% 60%;
+  background-size: 100%;
 }
 .site-meta {
   background: $pink;
